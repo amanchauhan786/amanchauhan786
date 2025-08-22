@@ -67,11 +67,9 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanchauhan786&layout=compact&langs_count=8&theme=radical" height="160px"/>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amanchauhan786/amanchauhan786/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amanchauhan786/amanchauhan786/output/github-snake.svg">
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/amanchauhan786/amanchauhan786/output/github-snake.svg">
-</picture>
+## 🐍 Contribution Graph  
+
+![snake gif](https://github.com/amanchauhan786/amanchauhan786/blob/output/github-contribution-grid-snake.svg)
 
 
 ---
