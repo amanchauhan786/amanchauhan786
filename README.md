@@ -67,9 +67,9 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanchauhan786&layout=compact&langs_count=8&theme=radical" height="160px"/>
 </p>
 
-## 🐍 Contribution Graph  
-
-![snake gif](https://github.com/amanchauhan786/amanchauhan786/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="600" />
+</p>
 
 
 ---
